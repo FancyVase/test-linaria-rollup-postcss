@@ -40,7 +40,7 @@ export { LinariaComponent };
 //# sourceMappingURL=LinariaComponent.js.map
 ```
 
-I would expect a `.js` import on the fourth line instead of `import '../_virtual/LinariaComponent.jsx_52jihk.css';`
+I would expect a `.js` import on the third line instead of `import '../_virtual/LinariaComponent.jsx_52jihk.css';`
 
 Opening that file gives me:
 
